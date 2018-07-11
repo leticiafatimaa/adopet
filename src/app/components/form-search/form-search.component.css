@@ -1,0 +1,13 @@
+/* div {border: solid 1px red} */
+
+.divBackground {
+    width: 101%;
+    height: 280px;
+    background-color: #F0F8FF;
+    box-shadow: 1px 2px 10px gray;
+    margin-top: 2%;
+}
+
+.form {
+
+}
